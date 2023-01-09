@@ -1,1 +1,4 @@
 # weightedUniformStringsSolution
+HackerRank
+Algorithms
+Strings
